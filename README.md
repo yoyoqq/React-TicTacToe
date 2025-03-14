@@ -1,6 +1,9 @@
 # React Tic-Tac-Toe Game
 A simple, interactive Tic-Tac-Toe game built with React.
 
+
+ACCESS THE GAME HERE: https://tictactoe-yagol.vercel.app/
+
 ## Features
 
 - Interactive game board
